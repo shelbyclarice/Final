@@ -1,0 +1,25 @@
+* {
+  background-color: azure;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(53, 53, 206);
+}
+
+p {
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 20px;
+  color: rgb(59, 59, 66);
+}
+
+form {
+  margin-left: 20px;
+  color: rgb(39, 39, 119);
+}
+
+label {
+  font-size: 20px;
+}
